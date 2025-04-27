@@ -1,0 +1,32 @@
+/* General page styling */
+body {
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+/* Styling for the main heading */
+h1 {
+    color: green;
+    font-size: 2.5em;
+    margin-top: 40px;
+}
+
+/* Styling for the paragraph text */
+p {
+    color: #333;
+    font-size: 1.2em;
+    margin: 20px;
+}
+
+/* Extra (optional) — smooth hover effect if you add links later */
+a {
+    color: green;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
